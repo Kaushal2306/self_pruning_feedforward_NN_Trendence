@@ -86,7 +86,7 @@ This demonstrates that most parameters can be removed while preserving competiti
 ## Gate Distribution
 
 The histogram below shows learned gate values.
-
+![Gate Distribution](gate_distribution.png)
 
 
 
